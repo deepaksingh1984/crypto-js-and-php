@@ -1,4 +1,4 @@
-# cryptojs-to-php
+# Cryptojs And PHP
 This is a demo of sending encrypted data using crypto js and php
 
 # Why to use this method
